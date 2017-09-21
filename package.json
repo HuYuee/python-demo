@@ -1,0 +1,19 @@
+{
+  "name": "python-demo",
+  "version": "1.0.0",
+  "description": "python的学习demo",
+  "main": "index.js",
+  "scripts": {
+    "demo1": "python demo/demo1.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HuYuee/python-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HuYuee/python-demo/issues"
+  },
+  "homepage": "https://github.com/HuYuee/python-demo#readme"
+}
